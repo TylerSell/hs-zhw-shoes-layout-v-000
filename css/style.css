@@ -151,6 +151,10 @@ iframe {
   margin-left: 2%;
 }
 
+.no-margin {
+  margin-left: 0%;
+}
+
 /********** Header **********/
 
 /********** Nav Bar **********/
