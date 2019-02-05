@@ -264,6 +264,10 @@ section a {
   text-decoration: underline;
 }
 
+#featured {
+  float: left;
+}
+
 /********** Details **********/
 
 #details {
