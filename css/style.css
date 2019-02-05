@@ -144,7 +144,7 @@ iframe {
   width: 32%;
 }
 
-.col-3 {
+.clearfix:after {
   
 }
 
