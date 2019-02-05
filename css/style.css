@@ -134,6 +134,14 @@ iframe {
   height: 415px;
 }
 
+#col-1 {
+  
+}
+
+#col-2 {
+  
+}
+
 /********** Header **********/
 
 /********** Nav Bar **********/
@@ -262,11 +270,6 @@ section {
 section a {
   color: #555;
   text-decoration: underline;
-}
-
-#featured {
-  float: left;
-  width: 66%;
 }
 
 /********** Details **********/
