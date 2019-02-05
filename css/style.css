@@ -145,13 +145,8 @@ iframe {
   width: 32%;
 }
 
-.clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
+.top-marg {
+  margin-top: 2%;
 }
 
 [class*="col-"] {
