@@ -266,6 +266,7 @@ section a {
 
 #featured {
   float: left;
+  size: 66%;
 }
 
 /********** Details **********/
